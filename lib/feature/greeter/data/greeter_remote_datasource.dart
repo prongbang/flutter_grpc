@@ -16,6 +16,8 @@ class GreeterRemoteDataSource {
 
       final response = await client.sayHello(request);
 
+      await channel.shutdown();
+
       return response.message;
     } catch (e) {
       return 'Caught error: $e';
