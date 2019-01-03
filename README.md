@@ -4,9 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-- gRPC Server
-
-[grpcserver](https://github.com/prongbang/android-grpc/blob/master/grpcserver/main.go)
+- [gRPC Server](https://github.com/prongbang/android-grpc/blob/master/grpcserver/main.go)
 
 This project is a starting point for a Flutter application.
 
